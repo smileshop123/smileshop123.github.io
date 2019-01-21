@@ -1,0 +1,14 @@
+body {
+background-image:url(back.jpg);
+}
+h1,p {
+font-family: 'Pacifico', cursive;
+background-color: rgba(0, 143, 255, 0.6);
+padding: 12px;
+color: #04d6d2;
+border-radius: 12px;
+}
+img {
+border-radius: 50px;
+margin-left: 15px;	
+}
